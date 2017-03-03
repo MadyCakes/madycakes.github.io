@@ -1,0 +1,166 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+header{
+  text-align: center;
+  width: 100%;
+}
+
+.black-ital{
+  color: #eb7b5b;
+  /*color: #3cbc8d;*/
+  z-index: 1;
+  margin-right: auto;
+  margin-left: auto;
+  /*margin-top: 10%;*/
+  /*border: 3px solid #ffffff;
+  padding: 10px;
+  border-radius:  15px;
+  width: 700px;*/
+  /*letter-spacing: 3px;*/
+  /*font-size: 100px;*/
+  /*font-family: 'Playfair Display', serif;*/
+  /*font: italic 900 132px/90px 'Playfair Display', Georgia, serif;*/
+  font-family: 'Shrikhand', cursive;
+  font-size: 120px;
+  text-align: center;
+  /*display: block;
+*/
+}
+
+/*#tagline{
+ font-family: 'Raleway', sans-serif;
+}*/
+
+
+/*.header-container{*/
+  /*width: 100%;*/
+  /*height: 200px;*/
+  /*height: 600px;
+  border-left: none;
+  border-right: none;
+  position: relative;
+  padding: 20px;*/
+/*}*/
+
+/*#video-container{*/
+ /* position: absolute;
+  width: 100%;
+  left: 0%;*/
+ /* top: 0%;
+  left: 0%;
+  height: 200%;
+  width: 100%;
+  overflow: hidden;*/
+/*}*/
+
+/*#vid{*/
+  /*position: absolute;*/
+  /*width: 100%;*/
+
+  
+  /*position: absolute;*/ /*want video to be fix in the video container*/
+  /*z-index: -1;*/ /*video in the background*/
+  /*opacity: 0.78;*/
+  /*width: 100%;*/
+
+/*}
+*/
+
+
+/*header, #footer{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/59/67/b9/5967b95bf7ded46e9249cc919d593299.jpg");
+  background-repeat: no-repeat;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  opacity: 0.8;
+}*/
+
+
+
+/*#test{
+  border: 1px solid black;
+  font-size: 100px;
+
+}*/
+
+/*p{
+  text-align: center;
+}*/
+
+/*h1{
+  text-align: center;
+  font-weight: bold;
+  color: #0000ff;
+  font-family: 'Bungee Shade', cursive;
+
+
+}*/
+
+/*.row{
+  margin-top: 35px;
+  margin-bottom: 35px;
+}*/
+
+/*img{
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  margin-bottom: 18px;
+}
+*/
+
+/*img{
+  width: 100%;
+  height: 80%;
+}*/
+
+img{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%
+}
+
+.row{
+  border: 1px solid black;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 10px;
+  /*text-align: center;*/
+  box-shadow: 5px 5px 10px gray;
+  margin-top: 20px;
+}
+
+.row:hover{
+  box-shadow: 5px 5px 10px #eb7b5b ;
+}
+
+
+
+.event-image{
+  float: left;
+  width: 30%;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.details{
+  float: right;
+  width: 60%;
+  padding: 10px;
+  margin-right: 110px;
+  margin-top: -20px;
+}
+
+.title{
+  font-size: 60px;
+}
+
+.date{
+  font-size: 30px;
+}
