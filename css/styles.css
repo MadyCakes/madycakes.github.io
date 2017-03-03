@@ -56,18 +56,16 @@ header{
   overflow: hidden;*/
 /*}*/
 
-/*#vid{*/
+#vid{
   /*position: absolute;*/
-  /*width: 100%;*/
-
-  
+  width: 100%;
   /*position: absolute;*/ /*want video to be fix in the video container*/
   /*z-index: -1;*/ /*video in the background*/
-  /*opacity: 0.78;*/
+  opacity: 0.78;
   /*width: 100%;*/
 
-/*}
-*/
+}
+
 
 
 /*header, #footer{
